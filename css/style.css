@@ -236,6 +236,7 @@ SECTION WRAPS
 #footwrap i {
   padding-right: 8px;
   color: #1abc9c;
+  font-size: 3rem;
 }
 
 /* Copyright Wrap */
